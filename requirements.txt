@@ -1,0 +1,14 @@
+pyOpenSSL
+requests
+pycryptodome
+pystyle
+colorama
+discord
+auto_py_to_exe
+psutil
+pyinstaller
+wmi
+fade
+psutil
+get-mac
+customtkinter
